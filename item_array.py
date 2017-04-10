@@ -1,7 +1,7 @@
 item_array = [
 	{
 	"c_name":u"所有类别",
-	"e_name":"ovedrall"
+	"e_name":"overall"
 	},
 	{
 	"c_name":u"图书",
