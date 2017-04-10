@@ -7,7 +7,9 @@
 
 ## 文件目录
 主程序`fetch.py`
+
 配置文件`ini.config` ：设置app-annie用户名和密码
+
 `item_array.py`,`countery.json`和`category.json`：AJAX相关参考信息
 ## 功能
 支持按时间、地区、类别抓取APP-ANNIE IOS APP 榜单 前500APP的名字，保存到程序目录下的EXCEL文件中。
