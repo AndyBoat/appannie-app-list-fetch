@@ -2,6 +2,9 @@
 ## 简介
 抓取APP-ANNIE  IOS APP榜单。小程序模拟用户登录，模拟AJAX调用接口获取后台数据。
 模拟用户登录、模拟AJAX调用后台的思路来自github。
+## 依赖
+依赖 `sys`,`requests`,`re`,`json`,`time`,`ConfigParser`
+
 ## 文件目录
 主程序`fetch.py`
 配置文件`ini.config` ：设置app-annie用户名和密码
